@@ -84,12 +84,12 @@ The probability of randomly finding an Ethereum wallet with a balance is **astro
 - The total number of possible private keys is **2^256** (~1.15 x 10^77).
 - This is **almost the same as the estimated number of atoms in the observable universe** (~10^80).
 - Statistically, you are:
-  - **42 billion times** more likely to win the Powerball lottery (1 in 292 million).
-  - **250 million times** more likely to be struck by lightning in your lifetime (1 in 15,300).
   - **2.5 million times** more likely to become a saint (1 in 20 million).
   - **10 million times** more likely to become an astronaut (1 in 12 million).
+  - **250 million times** more likely to be struck by lightning in your lifetime (1 in 15,300).
   - **7 billion times** more likely to win an Olympic gold medal (1 in 662,000).
-
+  - **42 billion times** more likely to win the Powerball lottery (1 in 292 million).
+  
 Even at **1 million attempts per second**, scanning just **1%** of all possible keys would take longer than the current age of the universe (13.8 billion years).
 
 This tool is intended for **educational purposes** to illustrate:
